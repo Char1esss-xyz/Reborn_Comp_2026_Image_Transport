@@ -1,4 +1,12 @@
 # Reborn 2026队内赛图传
+
+## 编译
+``` bash
+mkdir build && cd build
+cmake ..
+make
+```
+
 ## 自启动配置
 - 将本文件夹复制到桌面上
 - 检查rc.service与auto_start.sh配置与本机环境是否一致（一般情况下一致）
