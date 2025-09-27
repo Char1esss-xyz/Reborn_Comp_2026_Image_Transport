@@ -1,0 +1,3 @@
+/home/reborn/桌面/img_transport_demo/build/CMakeFiles/hik_web_stream.dir
+/home/reborn/桌面/img_transport_demo/build/CMakeFiles/edit_cache.dir
+/home/reborn/桌面/img_transport_demo/build/CMakeFiles/rebuild_cache.dir
