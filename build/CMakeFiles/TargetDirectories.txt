@@ -1,3 +1,0 @@
-/home/reborn/桌面/Reborn_Comp_2026_Image_Transport/build/CMakeFiles/hik_web_stream.dir
-/home/reborn/桌面/Reborn_Comp_2026_Image_Transport/build/CMakeFiles/edit_cache.dir
-/home/reborn/桌面/Reborn_Comp_2026_Image_Transport/build/CMakeFiles/rebuild_cache.dir
