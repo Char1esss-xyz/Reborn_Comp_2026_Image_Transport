@@ -7,9 +7,9 @@ Wants=network.target
 Type=simple
 User=reborn
 Group=reborn
-WorkingDirectory=/home/reborn/桌面/img_transport_demo/build
-Environment=LD_LIBRARY_PATH=/home/reborn/桌面/img_transport_demo/hik_sdk/lib
-ExecStart=/home/reborn/桌面/img_transport_demo/build/hik_web_stream
+WorkingDirectory=/home/reborn/桌面/Reborn_Comp_2026_Image_Transport/build
+Environment=LD_LIBRARY_PATH=/home/reborn/桌面/Reborn_Comp_2026_Image_Transport/hik_sdk/lib
+ExecStart=/home/reborn/桌面/Reborn_Comp_2026_Image_Transport/build/hik_web_stream
 StandardInput=null
 Restart=always
 RestartSec=10

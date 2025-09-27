@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/reborn/桌面/img_transport_demo
+CMAKE_SOURCE_DIR = /home/reborn/桌面/Reborn_Comp_2026_Image_Transport
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/reborn/桌面/img_transport_demo/build
+CMAKE_BINARY_DIR = /home/reborn/桌面/Reborn_Comp_2026_Image_Transport/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/hik_web_stream.dir/depend.make
@@ -72,30 +72,30 @@ include CMakeFiles/hik_web_stream.dir/flags.make
 CMakeFiles/hik_web_stream.dir/src/main.cpp.o: CMakeFiles/hik_web_stream.dir/flags.make
 CMakeFiles/hik_web_stream.dir/src/main.cpp.o: ../src/main.cpp
 CMakeFiles/hik_web_stream.dir/src/main.cpp.o: CMakeFiles/hik_web_stream.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/reborn/桌面/img_transport_demo/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/hik_web_stream.dir/src/main.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/hik_web_stream.dir/src/main.cpp.o -MF CMakeFiles/hik_web_stream.dir/src/main.cpp.o.d -o CMakeFiles/hik_web_stream.dir/src/main.cpp.o -c /home/reborn/桌面/img_transport_demo/src/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/reborn/桌面/Reborn_Comp_2026_Image_Transport/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/hik_web_stream.dir/src/main.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/hik_web_stream.dir/src/main.cpp.o -MF CMakeFiles/hik_web_stream.dir/src/main.cpp.o.d -o CMakeFiles/hik_web_stream.dir/src/main.cpp.o -c /home/reborn/桌面/Reborn_Comp_2026_Image_Transport/src/main.cpp
 
 CMakeFiles/hik_web_stream.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hik_web_stream.dir/src/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/reborn/桌面/img_transport_demo/src/main.cpp > CMakeFiles/hik_web_stream.dir/src/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/reborn/桌面/Reborn_Comp_2026_Image_Transport/src/main.cpp > CMakeFiles/hik_web_stream.dir/src/main.cpp.i
 
 CMakeFiles/hik_web_stream.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hik_web_stream.dir/src/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/reborn/桌面/img_transport_demo/src/main.cpp -o CMakeFiles/hik_web_stream.dir/src/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/reborn/桌面/Reborn_Comp_2026_Image_Transport/src/main.cpp -o CMakeFiles/hik_web_stream.dir/src/main.cpp.s
 
 CMakeFiles/hik_web_stream.dir/src/hik_camera.cpp.o: CMakeFiles/hik_web_stream.dir/flags.make
 CMakeFiles/hik_web_stream.dir/src/hik_camera.cpp.o: ../src/hik_camera.cpp
 CMakeFiles/hik_web_stream.dir/src/hik_camera.cpp.o: CMakeFiles/hik_web_stream.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/reborn/桌面/img_transport_demo/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/hik_web_stream.dir/src/hik_camera.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/hik_web_stream.dir/src/hik_camera.cpp.o -MF CMakeFiles/hik_web_stream.dir/src/hik_camera.cpp.o.d -o CMakeFiles/hik_web_stream.dir/src/hik_camera.cpp.o -c /home/reborn/桌面/img_transport_demo/src/hik_camera.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/reborn/桌面/Reborn_Comp_2026_Image_Transport/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/hik_web_stream.dir/src/hik_camera.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/hik_web_stream.dir/src/hik_camera.cpp.o -MF CMakeFiles/hik_web_stream.dir/src/hik_camera.cpp.o.d -o CMakeFiles/hik_web_stream.dir/src/hik_camera.cpp.o -c /home/reborn/桌面/Reborn_Comp_2026_Image_Transport/src/hik_camera.cpp
 
 CMakeFiles/hik_web_stream.dir/src/hik_camera.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hik_web_stream.dir/src/hik_camera.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/reborn/桌面/img_transport_demo/src/hik_camera.cpp > CMakeFiles/hik_web_stream.dir/src/hik_camera.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/reborn/桌面/Reborn_Comp_2026_Image_Transport/src/hik_camera.cpp > CMakeFiles/hik_web_stream.dir/src/hik_camera.cpp.i
 
 CMakeFiles/hik_web_stream.dir/src/hik_camera.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hik_web_stream.dir/src/hik_camera.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/reborn/桌面/img_transport_demo/src/hik_camera.cpp -o CMakeFiles/hik_web_stream.dir/src/hik_camera.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/reborn/桌面/Reborn_Comp_2026_Image_Transport/src/hik_camera.cpp -o CMakeFiles/hik_web_stream.dir/src/hik_camera.cpp.s
 
 # Object files for target hik_web_stream
 hik_web_stream_OBJECTS = \
@@ -176,7 +176,7 @@ hik_web_stream: /usr/lib/x86_64-linux-gnu/libopencv_photo.so.4.5.4d
 hik_web_stream: /usr/lib/x86_64-linux-gnu/libopencv_imgproc.so.4.5.4d
 hik_web_stream: /usr/lib/x86_64-linux-gnu/libopencv_core.so.4.5.4d
 hik_web_stream: CMakeFiles/hik_web_stream.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/reborn/桌面/img_transport_demo/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable hik_web_stream"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/reborn/桌面/Reborn_Comp_2026_Image_Transport/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable hik_web_stream"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/hik_web_stream.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -188,6 +188,6 @@ CMakeFiles/hik_web_stream.dir/clean:
 .PHONY : CMakeFiles/hik_web_stream.dir/clean
 
 CMakeFiles/hik_web_stream.dir/depend:
-	cd /home/reborn/桌面/img_transport_demo/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/reborn/桌面/img_transport_demo /home/reborn/桌面/img_transport_demo /home/reborn/桌面/img_transport_demo/build /home/reborn/桌面/img_transport_demo/build /home/reborn/桌面/img_transport_demo/build/CMakeFiles/hik_web_stream.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/reborn/桌面/Reborn_Comp_2026_Image_Transport/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/reborn/桌面/Reborn_Comp_2026_Image_Transport /home/reborn/桌面/Reborn_Comp_2026_Image_Transport /home/reborn/桌面/Reborn_Comp_2026_Image_Transport/build /home/reborn/桌面/Reborn_Comp_2026_Image_Transport/build /home/reborn/桌面/Reborn_Comp_2026_Image_Transport/build/CMakeFiles/hik_web_stream.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/hik_web_stream.dir/depend
 

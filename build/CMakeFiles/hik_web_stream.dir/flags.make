@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/reborn/桌面/img_transport_demo/hik_sdk/include -I/home/reborn/桌面/img_transport_demo/include -I/home/reborn/桌面/img_transport_demo/include/cpp-httplib -isystem /usr/include/opencv4
+CXX_INCLUDES = -I/home/reborn/桌面/Reborn_Comp_2026_Image_Transport/hik_sdk/include -I/home/reborn/桌面/Reborn_Comp_2026_Image_Transport/include -I/home/reborn/桌面/Reborn_Comp_2026_Image_Transport/include/cpp-httplib -isystem /usr/include/opencv4
 
 CXX_FLAGS = -std=gnu++17
 

@@ -1,7 +1,7 @@
 CMakeFiles/hik_web_stream.dir/src/main.cpp.o: \
- /home/reborn/桌面/img_transport_demo/src/main.cpp \
+ /home/reborn/桌面/Reborn_Comp_2026_Image_Transport/src/main.cpp \
  /usr/include/stdc-predef.h \
- /home/reborn/桌面/img_transport_demo/include/cpp-httplib/httplib.h \
+ /home/reborn/桌面/Reborn_Comp_2026_Image_Transport/include/cpp-httplib/httplib.h \
  /usr/include/arpa/inet.h /usr/include/features.h \
  /usr/include/features-time64.h \
  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
@@ -332,7 +332,7 @@ CMakeFiles/hik_web_stream.dir/src/main.cpp.o: \
  /usr/include/c++/11/bits/this_thread_sleep.h \
  /usr/include/c++/11/unordered_set \
  /usr/include/c++/11/bits/unordered_set.h \
- /home/reborn/桌面/img_transport_demo/include/hik_camera.hpp \
+ /home/reborn/桌面/Reborn_Comp_2026_Image_Transport/include/hik_camera.hpp \
  /usr/include/opencv4/opencv2/opencv.hpp \
  /usr/include/opencv4/opencv2/opencv_modules.hpp \
  /usr/include/opencv4/opencv2/core.hpp \
@@ -447,10 +447,10 @@ CMakeFiles/hik_web_stream.dir/src/main.cpp.o: \
  /usr/include/opencv4/opencv2/video.hpp \
  /usr/include/opencv4/opencv2/video/tracking.hpp \
  /usr/include/opencv4/opencv2/video/background_segm.hpp \
- /home/reborn/桌面/img_transport_demo/hik_sdk/include/MvCameraControl.h \
- /home/reborn/桌面/img_transport_demo/hik_sdk/include/MvErrorDefine.h \
- /home/reborn/桌面/img_transport_demo/hik_sdk/include/MvISPErrorDefine.h \
- /home/reborn/桌面/img_transport_demo/hik_sdk/include/CameraParams.h \
- /home/reborn/桌面/img_transport_demo/hik_sdk/include/PixelType.h \
- /home/reborn/桌面/img_transport_demo/hik_sdk/include/MvObsoleteInterfaces.h \
- /home/reborn/桌面/img_transport_demo/hik_sdk/include/ObsoleteCamParams.h
+ /home/reborn/桌面/Reborn_Comp_2026_Image_Transport/hik_sdk/include/MvCameraControl.h \
+ /home/reborn/桌面/Reborn_Comp_2026_Image_Transport/hik_sdk/include/MvErrorDefine.h \
+ /home/reborn/桌面/Reborn_Comp_2026_Image_Transport/hik_sdk/include/MvISPErrorDefine.h \
+ /home/reborn/桌面/Reborn_Comp_2026_Image_Transport/hik_sdk/include/CameraParams.h \
+ /home/reborn/桌面/Reborn_Comp_2026_Image_Transport/hik_sdk/include/PixelType.h \
+ /home/reborn/桌面/Reborn_Comp_2026_Image_Transport/hik_sdk/include/MvObsoleteInterfaces.h \
+ /home/reborn/桌面/Reborn_Comp_2026_Image_Transport/hik_sdk/include/ObsoleteCamParams.h
