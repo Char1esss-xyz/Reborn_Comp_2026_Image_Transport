@@ -20,6 +20,13 @@ sudo systemctl enable rc.service
 sudo systemctl status rc.service
 ```
 
+## 编译
+``` bash
+mkdir build && cd build
+cmake ..
+make
+```
+
 ## 运行
 - 开机自启动（配置如上文所示）
 - 运行可执行文件
