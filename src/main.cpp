@@ -20,7 +20,7 @@ void capture_video(HikCamera &cam)
     if (!cam.open(0))
     {
         std::cerr << "[Capture Thread] 错误：无法打开海康相机！" << std::endl;
-        return;
+        exit(1);
     }
     std::cout << "[Capture Thread] 海康相机已成功打开。" << std::endl;
 
